@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBT2.th" tvg-name="RHM HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",RHM HD
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Undefined",Hang Meas HDTV (1080p)
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV (360p) [Not 24/7]
