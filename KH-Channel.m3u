@@ -54,8 +54,13 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8?checkedby
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thai",Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Digital TV",CH3 HD
+#EXTINF:0 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Thai",CH3 HD
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐÔNG NAM Á TV" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png" group-title="Thai", Thairath TV 32
+https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
+#EXTINF:-1 group-title="ĐÔNG NAM Á TV" tvg-logo="https://img.pptvhd36.com/contents/images/logo/5da586bca9f86.png" group-title="Thai", PPTV HD 36
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 
 
