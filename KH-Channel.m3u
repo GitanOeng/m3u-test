@@ -3,6 +3,9 @@
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Undefined",Hang Meas HDTV (1080p)
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwFSjtu.png" group-title="WORLD TV",Rasmey Hang Meas (CM)
+http://167.99.72.244:1935/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV (360p) [Not 24/7]
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 
