@@ -19,7 +19,7 @@ http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Cambodia(កម្ពុជា )",TV5 Cambodia (720p) [Not 24/7]
-http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=""https://i.imgur.com/6p0TK7e.png" group-title="Cambodia(កម្ពុជា )",Fresh News
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/chunklist_w1911305558_b1496608.m3u8
