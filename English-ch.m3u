@@ -1,0 +1,27 @@
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Undefined",BBC America (720p)
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBNNews.us" tvg-logo="https://i.imgur.com/gG2SWgG.png" group-title="Religious",CBN News National (1080p)
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="Business",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
+https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
