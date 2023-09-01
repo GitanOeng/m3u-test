@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/7jpUfv0.png" group-title="Cambodia(កម្ពុជា )",Hang Meas HDTV (1080p)
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/7jpUfv0.png" group-title="Cambodia(កម្ពុជា )",Hang Meas HDTV
 http://malisresidencess.com:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w803562642_b1800000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Cambodia(កម្ពុជា )",Rasmey Hang Meas (CM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Cambodia(កម្ពុជា )",Rasmey Hang Meas
 http://malisresidencess.com:1934/rhm_hdtv/smil:RHMHDTV.smil/chunklist_w616528546_b1800000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://1.bp.blogspot.com/-7huubKhNu1M/XP-uSlRDo-I/AAAAAAAAIDQ/C9n8CgU8y3Uft5rSFEuDpMuuC2gfn7b9gCLcBGAs/s1600/bayon.jpg" group-title="Cambodia(កម្ពុជា )",Bayon TV (720p) 
@@ -18,44 +18,44 @@ http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Apsara TV" tvg-name="Apsara TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-Y67HLYUc8tI/XllMvduYKHI/AAAAAAAAJ9s/-PkYiDQ_DPAkhSBrZCr6liCzuONjPCxlgCLcBGAsYHQ/s1600/apsara-tv.png" group-title="Cambodia(កម្ពុជា )",Apsara TV
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Cambodia(កម្ពុជា )",TV5 Cambodia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Cambodia(កម្ពុជា )",TV5 Cambodia
 https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=""https://i.imgur.com/6p0TK7e.png" group-title="Cambodia(កម្ពុជា )",Fresh News
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/chunklist_w1911305558_b1496608.m3u8
 
-#EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia(កម្ពុជា )",TVK (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia(កម្ពុជា )",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="Cambodia(កម្ពុជា )",TVK 2 (720p)
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="Cambodia(កម្ពុជា )",TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MSJTV.kh" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Cambodia(កម្ពុជា )",MSJ TV (720p)
+#EXTINF:-1 tvg-id="MSJTV.kh" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Cambodia(កម្ពុជា )",MSJ TV
 http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Cambodia(កម្ពុជា )",PNN (720p) 
+#EXTINF:-1 tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Cambodia(កម្ពុជា )",PNN  
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Cambodia(កម្ពុជា )",SEA TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Cambodia(កម្ពុជា )",SEA TV 
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="" status="online",Netlink TV (720p)
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Cambodia(កម្ពុជា )",WIKI TV (720p)
+#EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Cambodia(កម្ពុជា )",WIKI TV
 http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
 
-#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Thai",Channel 7 (1080p)
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Thai",Channel 7
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thai",Channel 5 (1080p)
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thai",Channel 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thai",Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Thai",CH3 HD
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1693585459&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=eJAdNUOkOlbYpf_T9swmeQ
 
 #EXTINF:0 tvg-id="thairath" tvg-name="thairathhd" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png" group-title="Thai", Thairath TV 32
 https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
