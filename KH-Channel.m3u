@@ -54,7 +54,7 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8?checkedby
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thai",Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Thai",CH3 HD
+#EXTINF:0 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Thai",Channel 3
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1693585459&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=eJAdNUOkOlbYpf_T9swmeQ
 
 #EXTINF:0 tvg-id="thairath" tvg-name="thairathhd" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png" group-title="Thai", Thairath TV 32
@@ -63,11 +63,11 @@ https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 #EXTINF:0 tvg-id="pptv" tvg-name="PPTVHD" tvg-logo="https://img.pptvhd36.com/contents/images/logo/5da586bca9f86.png" group-title="Thai", PPTV HD 36
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Digital TV",True 4U
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Thai",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1693566115&x_ark_path_prefix=%2Flive%2F&x_ark_signature=RF-6rZ4d7Zq96MJfTsLq1Q
 
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/oxf6BRn.png" group-title="Digital TV",Workpoint TV
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/oxf6BRn.png" group-title="Thai",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream-04.sg1.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-TU_6JmedLwsMsyubdKjD5CPJvb9DTTbLy065znbzGxU)/cloud/3/x6g9qjj/s/live-4.m3u8
 
