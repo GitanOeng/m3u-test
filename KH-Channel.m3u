@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/7jpUfv0.png" group-title="Cambodia(កម្ពុជា )",Hang Meas HDTV
-http://malisresidencess.com:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w803562642_b1800000_sleng.m3u8
+http://malisresidencess.com:1934/redirect/hm_hdtv/smil:HMHDTV.smil?scheme=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Cambodia(កម្ពុជា )",Rasmey Hang Meas
-http://malisresidencess.com:1934/rhm_hdtv/smil:RHMHDTV.smil/chunklist_w616528546_b1800000_sleng.m3u8
+http://malisresidencess.com:1934/redirect/rhm_hdtv/smil:RHMHDTV.smil?scheme=m3u8
 
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://1.bp.blogspot.com/-7huubKhNu1M/XP-uSlRDo-I/AAAAAAAAIDQ/C9n8CgU8y3Uft5rSFEuDpMuuC2gfn7b9gCLcBGAs/s1600/bayon.jpg" group-title="Cambodia(កម្ពុជា )",Bayon TV (720p) 
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
