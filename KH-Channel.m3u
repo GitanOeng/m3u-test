@@ -105,4 +105,7 @@ https://s0.cdn.vet/live/ch31/i/ch31i.m3u8?sid=cjeMThmM2YwMzlkNDY2NWQ4M2U4YwNjkxO
 https://s0.cdn.vet/live/ch40/i/ch40i.m3u8?sid=cjeYjEzMWFlZGM0NTBkOTczZTFmYwNzkxMWIzMDgzNjE2ZTc1
 
 
+#EXTINF:-1 tvg-chno="36"  tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
+https://pptv-7jdibe.cdn.byteark.com/live/drmwv/audio/audio_3636004_10665.m4s
+
 
