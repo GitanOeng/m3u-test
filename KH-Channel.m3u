@@ -66,15 +66,43 @@ https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 #EXTINF:0 tvg-id="pptv" tvg-name="PPTVHD" tvg-logo="https://img.pptvhd36.com/contents/images/logo/5da586bca9f86.png" group-title="Thai", PPTV HD 36
 https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeOTNiMTUyYzgyZGU4NTE3NjQ5MAODgx
 
-#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Thai",True 4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1693566115&x_ark_path_prefix=%2Flive%2F&x_ark_signature=RF-6rZ4d7Zq96MJfTsLq1Q
 
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/oxf6BRn.png" group-title="Thai",Workpoint TV
+#EXTINF:-1 tvg-chno="25"  tvg-id="GMM25.th" tvg-name="GMM25" group-title="Thai" tvg-logo="https://i.imgur.com/sWGT1SD.png",GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://s0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=cjeZTNlMjBhYTRlMWVmMzRlMzVkNwOTgzMDMwNmE1MDFmZDUw
 
+#EXTINF:-1 tvg-chno="29"  tvg-id="MONO.th" tvg-name="MONO" group-title="Thai" tvg-logo="https://i.imgur.com/V4VWHiB.png",MONO
+https://s0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=cjeZGUzNmY0ZDg0M2MyNGJkM2IxYgM2Jk
 
+
+#EXTINF:-1 tvg-chno="30"  tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="Thai" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD
+https://s0.cdn.vet/live/ch9/i/ch9i.m3u8?sid=cjeMTc0NGM2YTBlMjVjZWUyZWU5MAOTlhN2
+
+
+https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1701200317&x_ark_path_prefix=%2Flive%2F&x_ark_signature=jkgXMy2f1_Rzh_x41MYqBw
+#EXTINF:-1 tvg-chno="24"  tvg-id="True 4 U.th" tvg-name="True 4 U" group-title="Thai" tvg-logo="https://i.imgur.com/tXb8NiE.png",True 4 U
+
+https://stream-01.sg1.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UFna_V8xQ3TlhX_1g1JyJsrNQZ6hholROvsZQ8TSZu_)/cloud/3/x6g9qjj/s/live-3.m3u8
+#EXTINF:-1 tvg-chno="23"  tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/oxf6BRn.png",Workpoint TV
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="Thai" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT 2 HD
+https://s0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=cjeNjA5YmU3MzdmZTJkNWU2NDdiMQMjdjOGM1NzJlNGFmODQx
+
+
+#EXTINF:-1 tvg-chno="22"  tvg-id="Nation TV.th" tvg-name="Nation TV" group-title="Thai" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
+https://s0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=cjeNGUwZjY1NzFjZjc3NmFjODIxNwOWIwYWRkYjY1NzEwNDY2
+
+
+#EXTINF:-1 tvg-chno="34"  tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Thai" tvg-logo="https://i.imgur.com/S6gvvf9.png",AmarinTV HD
+https://s0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeNmE5NzBkODI2OGJlNGJkNDhlMwMjU2OGFjYzY2MjUzNjk1
+
+
+
+#EXTINF:-1 tvg-chno="28"  tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" group-title="Thai" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
+https://s0.cdn.vet/live/ch31/i/ch31i.m3u8?sid=cjeMThmM2YwMzlkNDY2NWQ4M2U4YwNjkxOWQxMTQ1ZGY0O
+
+#EXTINF:-1 tvg-chno="28"  tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" group-title="Thai" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club2
+https://s0.cdn.vet/live/ch40/i/ch40i.m3u8?sid=cjeYjEzMWFlZGM0NTBkOTczZTFmYwNzkxMWIzMDgzNjE2ZTc1
 
 
 
